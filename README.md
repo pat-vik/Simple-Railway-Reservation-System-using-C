@@ -1,5 +1,4 @@
 # Simple-Railway-Reservation-System-using-C
-This is a mini-project submitted for the course "Problem Solving with C" offered by PES University.
 
 Welcome Screen
 
